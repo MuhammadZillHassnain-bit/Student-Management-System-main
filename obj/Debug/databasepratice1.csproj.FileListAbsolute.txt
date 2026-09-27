@@ -1,0 +1,11 @@
+D:\visiual\databasepratice1\bin\Debug\databasepratice1.exe.config
+D:\visiual\databasepratice1\bin\Debug\databasepratice1.exe
+D:\visiual\databasepratice1\bin\Debug\databasepratice1.pdb
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.csproj.AssemblyReference.cache
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.Form1.resources
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.Properties.Resources.resources
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.csproj.GenerateResource.cache
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.csproj.CoreCompileInputs.cache
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.exe
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.pdb
+D:\visiual\databasepratice1\obj\Debug\databasepratice1.LoginForm.resources
